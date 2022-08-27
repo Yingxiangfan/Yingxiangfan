@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yingxiangfan
 - 👀 I’m interested in Software testing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Java
+- 💞️ I’m looking to collaborate on Google Maps
 - 📫 How to reach me yingxiang@google.com
 
 <!---
